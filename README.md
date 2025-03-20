@@ -1,4 +1,4 @@
-Condom Market Analysis Dashboard
+# Condom Market Analysis Dashboard
 
 This Power BI dashboard provides insights into the market size, growth trends, brand performance, and key influencing factors in India’s condom industry.
 
